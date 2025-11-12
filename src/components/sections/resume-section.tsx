@@ -159,7 +159,7 @@ export function ResumeSection() {
 
         <div className="text-center mt-16">
           <Button asChild size="lg">
-            <Link href="/Ntsika's CV.pdf" target="_blank" download>
+            <Link href="/Ntsika Mtshixa.pdf" target="_blank" download>
               <Download className="mr-2 h-5 w-5" />
               Download My Resume
             </Link>
